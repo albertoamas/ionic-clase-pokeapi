@@ -1,0 +1,14 @@
+ion-card {
+    margin: 5px; /* Reduce el margen para hacer los cuadros más pequeños */
+  }
+  
+  ion-thumbnail {
+    width: 120px; /* Ajusta el ancho del thumbnail */
+    height: 120px; /* Ajusta la altura del thumbnail */
+    display: block;
+    margin: 0 auto; /* Centra la imagen dentro del card */
+  }
+  
+  ion-card-content {
+    text-align: center; /* Centra el contenido del card */
+  }
